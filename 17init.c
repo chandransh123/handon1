@@ -1,4 +1,4 @@
-/* Name : Akshay Sharma
+/* Name : Chandransh singh chouhan
  * Question : Write a program to open a file, store a ticket number, and exit.
  */
 
